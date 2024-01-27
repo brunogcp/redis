@@ -1,7 +1,7 @@
 <div align="center">
   <h3 align="center">REDIS</h3>
   <div>
-  <a href="https://bgcp.vercel.app/articles/3814706f-d7c9-456d-9fc4-2e389b1318e6">
+  <a href="https://bgcp.vercel.app/article/3814706f-d7c9-456d-9fc4-2e389b1318e6">
   <img src="https://img.shields.io/badge/Download PDF (ENGLISH)-black?style=for-the-badge&logoColor=white&color=000000" alt="three.js" />
   </a>
   </div>
